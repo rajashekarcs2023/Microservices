@@ -1,0 +1,8 @@
+__v,_id,author,create_date,description,genre,image_url,name,pages,publisher,title
+,ObjectId(599cdf838ca6d6b9b429df4c),,,,,,Suspense,,,
+,ObjectId(599ce01c8ca6d6b9b429df4d),,,,,,Self Help,,,
+,ObjectId(59a518a6cd6952849865e37f),,,,,,Thriller,,,
+,ObjectId(59a518becd6952849865e380),,,,,,Romance,,,
+,ObjectId(59a518c6cd6952849865e381),,,,,,Fiction,,,
+,ObjectId(59a518d5cd6952849865e382),,,,,,Horror,,,
+0,ObjectId(59a4f29a48c72a1a5c4ef7f6),,2017-08-29T04:50:34.597Z,,,,Math,,,

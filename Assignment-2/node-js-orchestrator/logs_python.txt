@@ -1,0 +1,2 @@
+ [x] Requesting fib(30)
+ [.] Got 832040

@@ -1,0 +1,5 @@
+ [x] Requesting fib(30)
+ [.] Got 832040
+ [x] Requesting fib(20)
+ [x] Requesting fib(20)
+ [.] Got 6765
