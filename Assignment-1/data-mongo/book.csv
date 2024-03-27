@@ -1,0 +1,4 @@
+__v,_id,author,create_date,description,genre,image_url,name,pages,publisher,title
+,ObjectId(599ce4558ca6d6b9b429df4e),James Patterson,,blah blah blah,Suspese,https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg,,480,"Little, Brown and Company",The Murder House
+,ObjectId(599ce4898ca6d6b9b429df4f),James Patterson,,blah blah blah,Bongu,https://prodimage.images-bn.com/pimages/9781455589906_p0_v1_s550x406.jpg,,480,"Little, Brown and Company",chetilo chippa
+,ObjectId(59a519d3cd6952849865e384),J K Rowling,,The boy who wondered,Fiction,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiA5uPtwfvVAhVCw4MKHdh7DeUQjRwIBw&url=http%3A%2F%2Fharrypotter.wikia.com%2Fwiki%2FPeter_Pettigrew&psig=AFQjCNEbbJX5z8mTUVaP6uIXapY-hOIdhw&ust=1504064184407479,,550,Bluth and Company,Harry Potter

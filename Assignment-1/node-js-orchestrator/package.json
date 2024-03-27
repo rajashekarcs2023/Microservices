@@ -1,0 +1,21 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: No test specified"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "vasanth",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Simple bookstore app"
+  }
+}
